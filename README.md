@@ -1,15 +1,7 @@
 <h1 align="center">Hello , I'm Niklas Jakobsen</h1>
-<h3 align="center">A Student Engine developer from Sweden Malmö.</h3>
+<h3 align="center">A Engine developer from Sweden Malmö.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zzweezz" alt="zzweezz" /></a> </p>
-
-- 🔭 I’m currently working on [Titan](https://github.com/zzWeeZz/Titan)
-
-- 🌱 I’m currently learning **Vulkan**
-
-- I have also worked on Net code [Neutron](https://github.com/zzWeeZz/Neutron)
-
-- 💬 Ask me about **my Projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
